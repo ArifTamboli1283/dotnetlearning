@@ -1,0 +1,39 @@
+Create new .Net console app 
+
+dotnet new console -o "application name" -> .exe
+dotnet new classlib -o "application name" -> .dll
+dotnet build 
+dotnet run
+
+dotnet new console -o -n "application name" -f net8.0 (for specific version) 
+
+dotnet solution can have more than one project 
+
+overload constructor 
+
+https://remote.nedbank.co.za/epa/epa.html
+
+.exe -> self executable 
+
+Access specifier 
+Public -> accessible outside class
+Protected -> within child class
+Private - > within class
+Internal -> inside dll or exe (Assembly scope)
+
+Assembly -> logical unit of deployment in .net Run time
+
+design Pricipale
+Dry => do not repeat yourself
+KISS => Keep it simple stupid
+S => single responsibility
+O => open 
+L =>
+I =>
+D => 
+
+Class -> 
+
+1. Concrete class -> from class we can create instance or object
+2 Abstract class -> enforcing polymorphism (overriding )
+

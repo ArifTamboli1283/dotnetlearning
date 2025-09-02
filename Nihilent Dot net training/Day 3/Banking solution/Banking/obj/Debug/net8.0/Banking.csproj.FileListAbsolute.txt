@@ -1,0 +1,11 @@
+C:\Users\arif.tamboli_6361\Desktop\DotNetLerning\Nihilent Dot net training\Day 3\Banking solution\Banking\bin\Debug\net8.0\Banking.deps.json
+C:\Users\arif.tamboli_6361\Desktop\DotNetLerning\Nihilent Dot net training\Day 3\Banking solution\Banking\bin\Debug\net8.0\Banking.dll
+C:\Users\arif.tamboli_6361\Desktop\DotNetLerning\Nihilent Dot net training\Day 3\Banking solution\Banking\bin\Debug\net8.0\Banking.pdb
+C:\Users\arif.tamboli_6361\Desktop\DotNetLerning\Nihilent Dot net training\Day 3\Banking solution\Banking\obj\Debug\net8.0\Banking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arif.tamboli_6361\Desktop\DotNetLerning\Nihilent Dot net training\Day 3\Banking solution\Banking\obj\Debug\net8.0\Banking.AssemblyInfoInputs.cache
+C:\Users\arif.tamboli_6361\Desktop\DotNetLerning\Nihilent Dot net training\Day 3\Banking solution\Banking\obj\Debug\net8.0\Banking.AssemblyInfo.cs
+C:\Users\arif.tamboli_6361\Desktop\DotNetLerning\Nihilent Dot net training\Day 3\Banking solution\Banking\obj\Debug\net8.0\Banking.csproj.CoreCompileInputs.cache
+C:\Users\arif.tamboli_6361\Desktop\DotNetLerning\Nihilent Dot net training\Day 3\Banking solution\Banking\obj\Debug\net8.0\Banking.dll
+C:\Users\arif.tamboli_6361\Desktop\DotNetLerning\Nihilent Dot net training\Day 3\Banking solution\Banking\obj\Debug\net8.0\refint\Banking.dll
+C:\Users\arif.tamboli_6361\Desktop\DotNetLerning\Nihilent Dot net training\Day 3\Banking solution\Banking\obj\Debug\net8.0\Banking.pdb
+C:\Users\arif.tamboli_6361\Desktop\DotNetLerning\Nihilent Dot net training\Day 3\Banking solution\Banking\obj\Debug\net8.0\ref\Banking.dll

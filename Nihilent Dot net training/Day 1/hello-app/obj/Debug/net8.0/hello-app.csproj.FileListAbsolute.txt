@@ -1,0 +1,14 @@
+C:\Users\arif.tamboli_6361\Desktop\DotNetLerning\Nihilent Dot net training\Day 1\hello-app\bin\Debug\net8.0\hello-app.exe
+C:\Users\arif.tamboli_6361\Desktop\DotNetLerning\Nihilent Dot net training\Day 1\hello-app\bin\Debug\net8.0\hello-app.deps.json
+C:\Users\arif.tamboli_6361\Desktop\DotNetLerning\Nihilent Dot net training\Day 1\hello-app\bin\Debug\net8.0\hello-app.runtimeconfig.json
+C:\Users\arif.tamboli_6361\Desktop\DotNetLerning\Nihilent Dot net training\Day 1\hello-app\bin\Debug\net8.0\hello-app.dll
+C:\Users\arif.tamboli_6361\Desktop\DotNetLerning\Nihilent Dot net training\Day 1\hello-app\bin\Debug\net8.0\hello-app.pdb
+C:\Users\arif.tamboli_6361\Desktop\DotNetLerning\Nihilent Dot net training\Day 1\hello-app\obj\Debug\net8.0\hello-app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arif.tamboli_6361\Desktop\DotNetLerning\Nihilent Dot net training\Day 1\hello-app\obj\Debug\net8.0\hello-app.AssemblyInfoInputs.cache
+C:\Users\arif.tamboli_6361\Desktop\DotNetLerning\Nihilent Dot net training\Day 1\hello-app\obj\Debug\net8.0\hello-app.AssemblyInfo.cs
+C:\Users\arif.tamboli_6361\Desktop\DotNetLerning\Nihilent Dot net training\Day 1\hello-app\obj\Debug\net8.0\hello-app.csproj.CoreCompileInputs.cache
+C:\Users\arif.tamboli_6361\Desktop\DotNetLerning\Nihilent Dot net training\Day 1\hello-app\obj\Debug\net8.0\hello-app.dll
+C:\Users\arif.tamboli_6361\Desktop\DotNetLerning\Nihilent Dot net training\Day 1\hello-app\obj\Debug\net8.0\refint\hello-app.dll
+C:\Users\arif.tamboli_6361\Desktop\DotNetLerning\Nihilent Dot net training\Day 1\hello-app\obj\Debug\net8.0\hello-app.pdb
+C:\Users\arif.tamboli_6361\Desktop\DotNetLerning\Nihilent Dot net training\Day 1\hello-app\obj\Debug\net8.0\hello-app.genruntimeconfig.cache
+C:\Users\arif.tamboli_6361\Desktop\DotNetLerning\Nihilent Dot net training\Day 1\hello-app\obj\Debug\net8.0\ref\hello-app.dll

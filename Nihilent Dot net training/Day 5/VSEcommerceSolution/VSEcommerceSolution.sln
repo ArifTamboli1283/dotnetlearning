@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34031.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestApp", "TestApp\TestApp.csproj", "{E60A3EB8-0B10-43EE-A924-AFAA9D86E4D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Catolog", "Catolog\Catolog.csproj", "{5B8CDC0E-1E32-497D-87B1-F6E990F2B781}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E60A3EB8-0B10-43EE-A924-AFAA9D86E4D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E60A3EB8-0B10-43EE-A924-AFAA9D86E4D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E60A3EB8-0B10-43EE-A924-AFAA9D86E4D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E60A3EB8-0B10-43EE-A924-AFAA9D86E4D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B8CDC0E-1E32-497D-87B1-F6E990F2B781}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B8CDC0E-1E32-497D-87B1-F6E990F2B781}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B8CDC0E-1E32-497D-87B1-F6E990F2B781}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B8CDC0E-1E32-497D-87B1-F6E990F2B781}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {19497009-7A51-4B16-AF71-25260021BC40}
+	EndGlobalSection
+EndGlobal

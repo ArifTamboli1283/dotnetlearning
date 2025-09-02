@@ -1,0 +1,11 @@
+C:\Users\arif.tamboli_6361\Desktop\DotNetLerning\Nihilent Dot net training\Day 5\newEcommerce\CatologLib\bin\Debug\net8.0\CatologLib.deps.json
+C:\Users\arif.tamboli_6361\Desktop\DotNetLerning\Nihilent Dot net training\Day 5\newEcommerce\CatologLib\bin\Debug\net8.0\CatologLib.dll
+C:\Users\arif.tamboli_6361\Desktop\DotNetLerning\Nihilent Dot net training\Day 5\newEcommerce\CatologLib\bin\Debug\net8.0\CatologLib.pdb
+C:\Users\arif.tamboli_6361\Desktop\DotNetLerning\Nihilent Dot net training\Day 5\newEcommerce\CatologLib\obj\Debug\net8.0\CatologLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arif.tamboli_6361\Desktop\DotNetLerning\Nihilent Dot net training\Day 5\newEcommerce\CatologLib\obj\Debug\net8.0\CatologLib.AssemblyInfoInputs.cache
+C:\Users\arif.tamboli_6361\Desktop\DotNetLerning\Nihilent Dot net training\Day 5\newEcommerce\CatologLib\obj\Debug\net8.0\CatologLib.AssemblyInfo.cs
+C:\Users\arif.tamboli_6361\Desktop\DotNetLerning\Nihilent Dot net training\Day 5\newEcommerce\CatologLib\obj\Debug\net8.0\CatologLib.csproj.CoreCompileInputs.cache
+C:\Users\arif.tamboli_6361\Desktop\DotNetLerning\Nihilent Dot net training\Day 5\newEcommerce\CatologLib\obj\Debug\net8.0\CatologLib.dll
+C:\Users\arif.tamboli_6361\Desktop\DotNetLerning\Nihilent Dot net training\Day 5\newEcommerce\CatologLib\obj\Debug\net8.0\refint\CatologLib.dll
+C:\Users\arif.tamboli_6361\Desktop\DotNetLerning\Nihilent Dot net training\Day 5\newEcommerce\CatologLib\obj\Debug\net8.0\CatologLib.pdb
+C:\Users\arif.tamboli_6361\Desktop\DotNetLerning\Nihilent Dot net training\Day 5\newEcommerce\CatologLib\obj\Debug\net8.0\ref\CatologLib.dll
