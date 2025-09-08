@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = hello_app
-build_property.ProjectDir = c:\Users\arif.tamboli_6361\Desktop\DotNetLerning\Nihilent Dot net training\Day 1\hello-app\
+build_property.ProjectDir = c:\Users\arif.tamboli_6361\Desktop\DotNetLerning\dotnetlearning\Nihilent Dot net training\Day 1\hello-app\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

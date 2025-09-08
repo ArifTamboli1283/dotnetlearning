@@ -1,0 +1,12 @@
+C:\Users\arif.tamboli_6361\Desktop\DotNetLerning\dotnetlearning\Nihilent Dot net training\Day 7\Ecommercesln\repositories\bin\Debug\net8.0\repositories.deps.json
+C:\Users\arif.tamboli_6361\Desktop\DotNetLerning\dotnetlearning\Nihilent Dot net training\Day 7\Ecommercesln\repositories\bin\Debug\net8.0\repositories.dll
+C:\Users\arif.tamboli_6361\Desktop\DotNetLerning\dotnetlearning\Nihilent Dot net training\Day 7\Ecommercesln\repositories\bin\Debug\net8.0\repositories.pdb
+C:\Users\arif.tamboli_6361\Desktop\DotNetLerning\dotnetlearning\Nihilent Dot net training\Day 7\Ecommercesln\repositories\obj\Debug\net8.0\repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arif.tamboli_6361\Desktop\DotNetLerning\dotnetlearning\Nihilent Dot net training\Day 7\Ecommercesln\repositories\obj\Debug\net8.0\repositories.AssemblyInfoInputs.cache
+C:\Users\arif.tamboli_6361\Desktop\DotNetLerning\dotnetlearning\Nihilent Dot net training\Day 7\Ecommercesln\repositories\obj\Debug\net8.0\repositories.AssemblyInfo.cs
+C:\Users\arif.tamboli_6361\Desktop\DotNetLerning\dotnetlearning\Nihilent Dot net training\Day 7\Ecommercesln\repositories\obj\Debug\net8.0\repositories.csproj.CoreCompileInputs.cache
+C:\Users\arif.tamboli_6361\Desktop\DotNetLerning\dotnetlearning\Nihilent Dot net training\Day 7\Ecommercesln\repositories\obj\Debug\net8.0\repositories.sourcelink.json
+C:\Users\arif.tamboli_6361\Desktop\DotNetLerning\dotnetlearning\Nihilent Dot net training\Day 7\Ecommercesln\repositories\obj\Debug\net8.0\repositories.dll
+C:\Users\arif.tamboli_6361\Desktop\DotNetLerning\dotnetlearning\Nihilent Dot net training\Day 7\Ecommercesln\repositories\obj\Debug\net8.0\refint\repositories.dll
+C:\Users\arif.tamboli_6361\Desktop\DotNetLerning\dotnetlearning\Nihilent Dot net training\Day 7\Ecommercesln\repositories\obj\Debug\net8.0\repositories.pdb
+C:\Users\arif.tamboli_6361\Desktop\DotNetLerning\dotnetlearning\Nihilent Dot net training\Day 7\Ecommercesln\repositories\obj\Debug\net8.0\ref\repositories.dll

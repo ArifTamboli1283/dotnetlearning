@@ -1,0 +1,16 @@
+C:\Users\arif.tamboli_6361\Desktop\DotNetLerning\dotnetlearning\Nihilent Dot net training\Day 7\Ecommercesln\entities\bin\Debug\net8.0\entities.deps.json
+C:\Users\arif.tamboli_6361\Desktop\DotNetLerning\dotnetlearning\Nihilent Dot net training\Day 7\Ecommercesln\entities\bin\Debug\net8.0\entities.dll
+C:\Users\arif.tamboli_6361\Desktop\DotNetLerning\dotnetlearning\Nihilent Dot net training\Day 7\Ecommercesln\entities\bin\Debug\net8.0\entities.pdb
+C:\Users\arif.tamboli_6361\Desktop\DotNetLerning\dotnetlearning\Nihilent Dot net training\Day 7\Ecommercesln\entities\bin\Debug\net8.0\repositories.dll
+C:\Users\arif.tamboli_6361\Desktop\DotNetLerning\dotnetlearning\Nihilent Dot net training\Day 7\Ecommercesln\entities\bin\Debug\net8.0\repositories.pdb
+C:\Users\arif.tamboli_6361\Desktop\DotNetLerning\dotnetlearning\Nihilent Dot net training\Day 7\Ecommercesln\entities\obj\Debug\net8.0\entities.csproj.AssemblyReference.cache
+C:\Users\arif.tamboli_6361\Desktop\DotNetLerning\dotnetlearning\Nihilent Dot net training\Day 7\Ecommercesln\entities\obj\Debug\net8.0\entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arif.tamboli_6361\Desktop\DotNetLerning\dotnetlearning\Nihilent Dot net training\Day 7\Ecommercesln\entities\obj\Debug\net8.0\entities.AssemblyInfoInputs.cache
+C:\Users\arif.tamboli_6361\Desktop\DotNetLerning\dotnetlearning\Nihilent Dot net training\Day 7\Ecommercesln\entities\obj\Debug\net8.0\entities.AssemblyInfo.cs
+C:\Users\arif.tamboli_6361\Desktop\DotNetLerning\dotnetlearning\Nihilent Dot net training\Day 7\Ecommercesln\entities\obj\Debug\net8.0\entities.csproj.CoreCompileInputs.cache
+C:\Users\arif.tamboli_6361\Desktop\DotNetLerning\dotnetlearning\Nihilent Dot net training\Day 7\Ecommercesln\entities\obj\Debug\net8.0\entities.sourcelink.json
+C:\Users\arif.tamboli_6361\Desktop\DotNetLerning\dotnetlearning\Nihilent Dot net training\Day 7\Ecommercesln\entities\obj\Debug\net8.0\entities.csproj.Up2Date
+C:\Users\arif.tamboli_6361\Desktop\DotNetLerning\dotnetlearning\Nihilent Dot net training\Day 7\Ecommercesln\entities\obj\Debug\net8.0\entities.dll
+C:\Users\arif.tamboli_6361\Desktop\DotNetLerning\dotnetlearning\Nihilent Dot net training\Day 7\Ecommercesln\entities\obj\Debug\net8.0\refint\entities.dll
+C:\Users\arif.tamboli_6361\Desktop\DotNetLerning\dotnetlearning\Nihilent Dot net training\Day 7\Ecommercesln\entities\obj\Debug\net8.0\entities.pdb
+C:\Users\arif.tamboli_6361\Desktop\DotNetLerning\dotnetlearning\Nihilent Dot net training\Day 7\Ecommercesln\entities\obj\Debug\net8.0\ref\entities.dll
