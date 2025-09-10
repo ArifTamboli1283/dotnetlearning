@@ -15,11 +15,11 @@ app.MapGet("/hello", () =>
 
 app.MapGet("/api/products", () =>
 {
-    return new[] {
-        new {id = 1, name = "abcd", price = 12121},
-        new {id = 2, name = "", price = 0},
-        new {id = 3, name = "", price = 0}
-    };
+    // return new[] {
+    //     new {id = 1, name = "abcd", price = 12121},
+    //     new {id = 2, name = "", price = 0},
+    //     new {id = 3, name = "", price = 0}
+    // };
 });
 
 app.MapPost("/api/products", (dynamic Product) =>
