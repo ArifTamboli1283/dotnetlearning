@@ -1,0 +1,17 @@
+@* server side viee *@
+@* Razor syntax *@
+@* Rezor view engine manage execution for this razor syntax *@
+@using CatologEntities; 
+@{
+    ViewData["Title"] = "Product list";
+}
+
+@{
+    List<Product> products = Model;
+    foreach(var poduct in products) {
+        <h3>@poduct.Name</h3>
+        <p>Price : @poduct.Price</p>
+        <p>Description : @poduct.Desctiption</p>
+    }
+
+}

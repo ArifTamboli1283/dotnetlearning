@@ -5,7 +5,6 @@ using System.IO;
 using System.Text.Json;
 public class ProductRepository: IProductRepository
 {
-    private readonly List<Product> _products = new List<Product>();
     public IEnumerable<Product>? GetAllProduct()
     {
         return JSONCatologManager.GetProduct();

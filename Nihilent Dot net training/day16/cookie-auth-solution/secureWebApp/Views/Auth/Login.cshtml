@@ -1,0 +1,17 @@
+@{ViewData["Title"] = "Login";}
+<form method="post" action="/auth/login">
+<table>
+    <tr>
+        <td>Email</td>
+        <td> <input type="email" name="email"/></td>
+    </tr>
+    <tr>
+        <td>Password</td>
+        <td> <input type="password" name="password"/></td>
+    </tr>
+        <tr>
+            <td> </td>
+            <td> <button type="submit">login</button></td>
+        </tr>
+</table>
+</form>

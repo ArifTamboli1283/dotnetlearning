@@ -1,0 +1,10 @@
+@using CatologEntities;  
+@{
+     @* Product product = (Product)ViewData["theProduct"]; *@
+    Product product = ViewData["theProduct"] as Product;
+
+    <p>@product.Name</p>
+    <p>@product.Desctiption</p>
+    <p>@product.Price</p>
+    <p>@product.ImageUrl</p>
+}
