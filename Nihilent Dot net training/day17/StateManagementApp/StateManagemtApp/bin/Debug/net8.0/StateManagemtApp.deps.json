@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "StateManagemtApp/1.0.0": {
+        "runtime": {
+          "StateManagemtApp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StateManagemtApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

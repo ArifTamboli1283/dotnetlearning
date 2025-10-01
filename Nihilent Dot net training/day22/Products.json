@@ -1,0 +1,23 @@
+
+[
+  { "Id": 1, "ProductName": "Laptop", "ProductDescription": "High-performance laptop for professionals" },
+  { "Id": 2, "ProductName": "Smartphone", "ProductDescription": "Latest model with advanced features" },
+  { "Id": 3, "ProductName": "Headphones", "ProductDescription": "Noise-cancelling over-ear headphones" },
+  { "Id": 4, "ProductName": "Smartwatch", "ProductDescription": "Fitness tracking and notifications" },
+  { "Id": 5, "ProductName": "Tablet", "ProductDescription": "Lightweight tablet for entertainment and work" },
+  { "Id": 6, "ProductName": "Monitor", "ProductDescription": "4K UHD monitor with vibrant colors" },
+  { "Id": 7, "ProductName": "Keyboard", "ProductDescription": "Mechanical keyboard with RGB lighting" },
+  { "Id": 8, "ProductName": "Mouse", "ProductDescription": "Ergonomic wireless mouse" },
+  { "Id": 9, "ProductName": "Printer", "ProductDescription": "All-in-one wireless printer" },
+  { "Id": 10, "ProductName": "Router", "ProductDescription": "High-speed dual-band router" },
+  { "Id": 11, "ProductName": "External Hard Drive", "ProductDescription": "1TB portable storage device" },
+  { "Id": 12, "ProductName": "Webcam", "ProductDescription": "HD webcam for video conferencing" },
+  { "Id": 13, "ProductName": "Speakers", "ProductDescription": "Bluetooth stereo speakers" },
+  { "Id": 14, "ProductName": "Microphone", "ProductDescription": "Studio-quality USB microphone" },
+  { "Id": 15, "ProductName": "Charger", "ProductDescription": "Fast-charging USB-C charger" },
+  { "Id": 16, "ProductName": "Power Bank", "ProductDescription": "10,000mAh portable power bank" },
+  { "Id": 17, "ProductName": "Graphics Card", "ProductDescription": "High-end GPU for gaming and design" },
+  { "Id": 18, "ProductName": "RAM", "ProductDescription": "16GB DDR4 memory module" },
+  { "Id": 19, "ProductName": "SSD", "ProductDescription": "512GB NVMe solid-state drive" },
+  { "Id": 20, "ProductName": "Cooling Pad", "ProductDescription": "Laptop cooling pad with fans" }
+]

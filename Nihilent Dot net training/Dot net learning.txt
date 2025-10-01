@@ -37,3 +37,33 @@ Class ->
 1. Concrete class -> from class we can create instance or object
 2 Abstract class -> enforcing polymorphism (overriding )
 
+Sequence 
+
+Exception Handling
+HSTS
+HTTPS Redirection
+Static Files
+Routing
+Authentication (optional)
+Authorization
+Endpoint Execution (Controllers, Razor Pages, Minimal APIs)
+Terminal Middleware (Run)
+
+Monothic application -> sinlge web api content all implementation one process boundry multi thread application along with Primary thread
+
+worker process
+Network load balancing --- NLB for multiple server handle (Multiplexing logic)
+
+MicroService Architecture 
+	Building simple microservice for Ecommerce solution
+        applying gateway to expose Microservice to outside 
+Interoperability 
+     online / offline communication between capplication 
+	message driven application
+	RabbitMQ / Kafka overview
+Micro FE: - 
+
+
+
+
+

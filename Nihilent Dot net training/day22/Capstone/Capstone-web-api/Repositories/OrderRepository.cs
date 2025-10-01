@@ -1,0 +1,3 @@
+using Capstone_web_api.Entities;
+namespace Capstone_web_api.Repositories;
+

@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "VQ7eIS3Qv0k=",
+  "success": false,
+  "projectFilePath": "C:\\Users\\arif.tamboli_6361\\Desktop\\DotNetLerning\\dotnetlearning\\Nihilent Dot net training\\day20\\microservicesolutions\\ApiGateWay\\ApiGateWay.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Swashbuckle.AspNetCore. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages",
+      "libraryId": "Swashbuckle.AspNetCore",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}
